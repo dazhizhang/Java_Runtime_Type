@@ -2,4 +2,5 @@
 Java Runtime Type, Reflection
 
 
-http://blog.csdn.net/zolalad/article/details/29171541
+http://blog.csdn.net/zolalad/article/details/29171541 </n>
+http://blog.csdn.net/fengyuzhengfan/article/details/38086743
